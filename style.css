@@ -10,7 +10,7 @@ body{
 .offset:before{
     display: block;
     content:"" ;
-    height: 6rem;
+    height: 7rem;
 }
 .navbar{
     text-transform: uppercase;
